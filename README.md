@@ -4,7 +4,7 @@
 [![Maven Central](https://img.shields.io/maven-central/v/com.eclipsesource.minimal-json/minimal-json.svg)](http://search.maven.org/#search|ga|1|g%3A%22com.eclipsesource.minimal-json%22%20a%3A%22minimal-json%22)
 [![Build Status](https://img.shields.io/travis/ralfstx/minimal-json.svg)](http://travis-ci.org/ralfstx/minimal-json)
 
-Note: this is a port of minimal-json for the Cosmic Indigo Game Engine. All changes will be recorded in the MODIFICATIONS.txt file.
+Note: this is a port of minimal-json for the Cosmic Indigo Game Engine.
 
 A fast and minimal JSON parser and writer for Java.
 It's not an object mapper, but a bare-bones library that aims at being
